@@ -1,0 +1,10 @@
+ссылка на гугл-таблицу:
+https://docs.google.com/spreadsheets/d/1vadY3Rfap6x2k2GG-_SRWftGApEWWBqyUflBOW5SejU/edit?usp=sharing
+
+
+ссылка на Collab:
+https://colab.research.google.com/drive/1wa_3pgR-pqsj6vrWQhF41oM8ubBAH9Er#scrollTo=diNpD6VOpacl
+
+
+ссылка на GitHub
+https://github.com/JuliaLanskikh/SWOT2.git
